@@ -4,7 +4,7 @@ import slugify  # from slugify import slugify # pip install awesome-slugify
 from content import content_file
 from string_number import dbl_number
 from template_theory import theory_file
-from template_exercize import exercise_file
+from template_exercise import exercise_file
 
 
 def string_convertion(str):
