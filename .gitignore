@@ -4,4 +4,7 @@ _study_templates/
 
 .venv/
 
+_data/
+_temp/
+
 content/content.txt
